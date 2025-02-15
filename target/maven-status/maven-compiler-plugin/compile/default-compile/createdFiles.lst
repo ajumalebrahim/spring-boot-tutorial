@@ -1,0 +1,5 @@
+com/myTest2/test/dto/EmployeeDto.class
+com/myTest2/test/entity/Employee.class
+com/myTest2/test/repository/EmployeeRepository.class
+com/myTest2/test/mapper/EmployeeMapper.class
+com/myTest2/test/TestApplication.class
